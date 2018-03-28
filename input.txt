@@ -1,0 +1,15 @@
+German german3.txt
+French french2.txt
+Spanish spanish3.txt
+English english4.txt
+Croation hr5.txt
+Dutch nl1.txt
+Romanian ro2.txt
+German german1.txt
+French French1.txtGerman German2.txtUnknown Spanish3.txt
+Unknown English1.txt
+English English2.txt
+Spanish Spanish1.txt
+Spanish Spanish2.txt
+English English3.txt
+Unknown German9.txt
